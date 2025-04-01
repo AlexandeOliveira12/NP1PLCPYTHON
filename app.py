@@ -22,4 +22,3 @@ def menu_escolha():
     
 menu_escolha()
 
-        
